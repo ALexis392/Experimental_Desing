@@ -1,6 +1,8 @@
+# Ignorar archivos de datos comunes
 *.csv
 *.txt
-*.png
 *.xlsx
-notebook.ipynb
+*.png
+*.ipynb
 data/
+
